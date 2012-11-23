@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm Player Midi", "Rhythm Player Midi\Rhythm Player Midi.csproj", "{0269E8D8-CC1E-4061-88BC-D60CFC809F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0269E8D8-CC1E-4061-88BC-D60CFC809F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0269E8D8-CC1E-4061-88BC-D60CFC809F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0269E8D8-CC1E-4061-88BC-D60CFC809F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0269E8D8-CC1E-4061-88BC-D60CFC809F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
